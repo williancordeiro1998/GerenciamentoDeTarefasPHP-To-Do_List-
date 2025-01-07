@@ -5,7 +5,6 @@ Este é um sistema simples de gerenciamento de tarefas, com funcionalidades de l
 ## Funcionalidades
 
 - **Login**: Realize login utilizando o nome de usuário e senha.
-- **Cadastro**: Crie uma conta de usuário com um nome de usuário e senha.
 - **Gerenciamento de Tarefas**: Após login, o usuário pode adicionar e excluir tarefas.
 - **Sessão de Usuário**: Após o login, o usuário pode visualizar suas tarefas cadastradas.
 
